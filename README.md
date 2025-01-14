@@ -10,4 +10,7 @@ Unless otherwise noted, all content is licensed under a [Creative Commons Attrib
 ## OLS-9
 
 Graduation Slides: https://docs.google.com/presentation/d/1xKe6h3-Xgl2dlGB8u-TSTE_XW2zAptU8glqzzfQqKSQ/edit?usp=sharing
+
 Open Canvas: https://docs.google.com/presentation/d/1YSCvrd89Ul4YRiw9CKoBhhKrSJeZGnlROHAuvoVU2j4/edit?usp=sharing
+
+Issue: https://github.com/open-life-science/ols-9/issues/154
