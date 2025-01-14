@@ -13,17 +13,24 @@ The choice to implement open-science approach is to maximize the quality of this
 
 ## Milestones
 
-### Phase 1: [Title of Phase 1]
-- [ ] Milestone 1 - Expected Completion: [Timepoint]
-- [ ] Milestone 2 - Expected Completion: [Timepoint]
+### Phase 1: Survey Design and Distribution
+- [ ] Survey Design - Expected Completion: December 2024
+<img src="Survey.png" alt="Description of Figure" width="500" />
+[The survey link HERE:](https://docs.google.com/forms/d/e/1FAIpQLSd0Stg3x9fXU0WVzLmmPygJAg56lRoAgxSnBuBBfj9cHW9ItA/viewform?usp=header)
+<br><br><br>
 
-### Phase 2: [Title of Phase 2]
-- [ ] Milestone 1 - Expected Completion: [Timepoint]
-- [ ] Milestone 2 - Expected Completion: [Timepoint]
+- [ ] REB1 Approval - Expected Completion: January 2025
+- [ ] Survey Distribution - Expected Completion: February 2025
 
-### Phase 3: [Title of Phase 3]
-- [ ] Milestone 1 - Expected Completion: [Timepoint]
-- [ ] Milestone 2 - Expected Completion: [Timepoint]
+### Phase 2: In-person Workshop Design
+- [ ] Confirm guest speaker - Expected Completion: February 2025
+- [ ] Design workshop format and material - Expected Completion: March 2025
+- [ ] Book the room and the date
+- [ ] Advertise 
+
+### Phase 3: Execute Workshop
+- [ ] Conduct in-person workshop - Expected Completion: April 2025
+- [ ] Distribute and collect a post-workshop survey - Expected Completion: April 2025
 
 ## Future Directions
 
