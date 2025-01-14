@@ -14,7 +14,7 @@ The choice to implement open-science approach is to maximize the quality of this
 ## Milestones
 
 ### Phase 1: Survey Design and Distribution
-- [ ] Survey Design - Expected Completion: December 2024
+- [x] Survey Design - Expected Completion: December 2024
 <img src="Survey.png" alt="Description of Figure" width="500" />
 [The survey link HERE:](https://docs.google.com/forms/d/e/1FAIpQLSd0Stg3x9fXU0WVzLmmPygJAg56lRoAgxSnBuBBfj9cHW9ItA/viewform?usp=header)
 <br><br><br>
