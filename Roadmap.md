@@ -1,8 +1,8 @@
 # Roadmap
 
 ## Vision
-The vision of this project is to working with women, racialized groups, and students from underprivileged countries at McGill University to teach high-performance computing skills and inform them about available resources so that they can execute their research projects and coursework more effectively. 
-The choice to implement open-science approach is to maximize the quality of this project through feedback and collaboration and the amount of students we can reach.
+The vision of this project is to work with women, racialized groups, and students from underprivileged countries at McGill University to teach high-performance computing skills and inform them about available resources so that they can execute their research projects and coursework more effectively. 
+The choice to implement an open-science approach is to maximize the quality of this project through feedback and collaboration and the amount of students we can reach.
 
 ## Goals
 1. **Expand Access to High-Performance Computing Resources**  
